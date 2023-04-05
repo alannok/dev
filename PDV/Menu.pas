@@ -19,6 +19,7 @@ type
     Usuarios1: TMenuItem;
     Funcionarios1: TMenuItem;
     Cargos1: TMenuItem;
+    mnuPosicaoEstoque: TMenuItem;
     procedure Usuarios1Click(Sender: TObject);
     procedure Funcionarios1Click(Sender: TObject);
     procedure Cargos1Click(Sender: TObject);
