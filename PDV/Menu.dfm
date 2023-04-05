@@ -5007,6 +5007,9 @@ object FrmMenu: TFrmMenu
         FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
         FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
       Caption = 'Relatorios'
+      object mnuPosicaoEstoque: TMenuItem
+        Caption = 'Posi'#231#227'o de Estoque'
+      end
     end
     object Sair1: TMenuItem
       Bitmap.Data = {
